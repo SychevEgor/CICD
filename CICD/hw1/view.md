@@ -1,0 +1,6 @@
+![Image alt](https://github.com/SychevEgor/CICD/blob/main/CICD/hw1/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-12-25%20161141.png)
+![Image alt](https://github.com/SychevEgor/CICD/blob/main/CICD/hw1/2.png)
+![Image alt](https://github.com/SychevEgor/CICD/blob/main/CICD/hw1/3.png)
+![Image alt](https://github.com/SychevEgor/CICD/blob/main/CICD/hw1/4.png)
+![Image alt](https://github.com/SychevEgor/CICD/blob/main/CICD/hw1/5.png)
+![Image alt](https://github.com/SychevEgor/CICD/blob/main/CICD/hw1/6.png)
