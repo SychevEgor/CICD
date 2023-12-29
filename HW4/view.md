@@ -1,4 +1,4 @@
-![Image alt](https://github.com/SychevEgor/CICD/blob/main/HW4/img/21.png)
+![Image alt](https://github.com/SychevEgor/CICD/blob/main/HW4/img/221.png)
 ![Image alt](https://github.com/SychevEgor/CICD/blob/main/HW4/img/22.png)
 ![Image alt](https://github.com/SychevEgor/CICD/blob/main/HW4/img/2223.png)
 ![Image alt](https://github.com/SychevEgor/CICD/blob/main/HW4/img/24.png)
